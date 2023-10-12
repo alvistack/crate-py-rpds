@@ -1,0 +1,5 @@
+python-rpds-py source: file-without-copyright-information
+python-rpds-py source: no-debian-changes
+python-rpds-py source: source-contains-prebuilt-windows-binary
+python-rpds-py source: source-is-missing
+python-rpds-py source: source-package-encodes-python-version
