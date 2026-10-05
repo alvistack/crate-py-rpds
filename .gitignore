@@ -76,3 +76,6 @@ docs/_build/
 _cache
 
 TODO
+.cargo/
+vendor/
+.pybuild/
