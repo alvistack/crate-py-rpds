@@ -1,0 +1,4 @@
+python3-rpds-py: copyright-without-copyright-notice
+python3-rpds-py: initial-upload-closes-no-bugs
+python3-rpds-py: no-manual-page
+python3-rpds-py: zero-byte-file-in-doc-directory
